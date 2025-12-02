@@ -6,6 +6,11 @@
 A complete end-to-end machine learning project demonstrating **Ridge Regression**, **Regularization**, **Pipeline Modeling**, **Cross-Validation**, and **Hyperparameter Tuning** using `RidgeCV` in Scikit-Learn.
 
 ---
+##  **Ridge Visualization**
+By this tool you can visualize and understand more better way which i add in the repository please go through that.
+
+<img src="Ridge_Pic/Ridge_Visualization_tool.png" width="700">
+
 
 ## 🏆 **Project Overview**
 

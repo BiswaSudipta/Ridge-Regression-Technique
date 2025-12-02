@@ -46,6 +46,7 @@ This repository is ideal for:
 │     ├── reg_intro.webp
 │── HousingData.csv
 │── ridge-regression-on-boston-housing-an-end-to-end.ipynb
+│── Ridge_Visualization_tool.html(Download and play with this)
 │── README.md 
 
 ```
